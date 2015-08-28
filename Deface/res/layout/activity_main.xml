@@ -1,0 +1,94 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.github.deface.MainActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_takePhoto"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/bg_button"
+            android:elevation="5dp"
+            android:text="拍照"
+            android:textSize="22sp" />
+
+        <Button
+            android:id="@+id/btn_beauty"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/bg_button"
+            android:elevation="5dp"
+            android:text="美化"
+            android:textSize="22sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_image"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/bg_button"
+            android:elevation="5dp"
+            android:text="镜像"
+            android:textSize="22sp" />
+
+        <Button
+            android:id="@+id/btn_clone"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/bg_button"
+            android:elevation="5dp"
+            android:text="克隆"
+            android:textSize="22sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="30dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_puzzle"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/bg_button"
+            android:elevation="5dp"
+            android:text="拼图"
+            android:textSize="22sp" />
+
+        <Button
+            android:id="@+id/btn_share"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/bg_button"
+            android:elevation="5dp"
+            android:text="分享"
+            android:textSize="22sp" />
+    </LinearLayout>
+
+</LinearLayout>

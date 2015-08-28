@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <FrameLayout
+        android:id="@+id/camera_preview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="match_parent" />
+        
+        <ImageView
+            android:id="@+id/iv_part1"
+            android:layout_width="240dp"
+            android:layout_height="360dp" />
+
+        <ImageView
+            android:id="@+id/iv_part2"
+            android:layout_width="240dp"
+            android:layout_height="360dp" />
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom" >
+
+        <Button
+            android:id="@+id/camera_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="第一张"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/camera_capture"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="拍照" />
+
+        <Button
+            android:id="@+id/camera_ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="第二张"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</FrameLayout>

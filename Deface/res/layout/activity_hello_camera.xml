@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.github.deface.MainActivity1" >
+
+    <Button
+        android:id="@+id/buttonPicture"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="照相" />
+    
+    <!-- <Button
+        android:id="@+id/btn_takePicture"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="照相" /> -->
+    
+    <Button
+        android:id="@+id/btn_beauty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="美化" />
+    
+    
+    <Button
+        android:id="@+id/btn_straggered"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="straggered"
+        android:text="瀑布流" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+         />
+
+</LinearLayout>

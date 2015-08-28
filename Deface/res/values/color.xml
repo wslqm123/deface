@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 作用于次要的文字提示 -->
+    <color name="white_text">#ffffff</color>
+
+    <!-- 作用于次要的文字提示 -->
+    <color name="black_text">#000000</color>
+
+    <!-- 状态栏推荐使用900，操作栏推荐使用500，主题区域推荐使用200，底部栏推荐使用700-->
+    <color name="status_red">#b0120a</color>        <!-- 900 -->
+    <color name="action_red">#e51c23</color>        <!-- 500 -->
+    <color name="window_bg_red">#f36c60</color>     <!-- 300 -->
+    <color name="navigation_red">#d01716</color>    <!-- 700 -->
+    <color name="bg_red">#e84e40</color>    <!-- 400 -->
+    <color name="fg_red">#fde0dc</color>    <!-- 50 -->
+    <color name="control_normal_red">#fde0dc</color>    <!-- 50 -->
+    <color name="control_highlight_red">#f69988</color>    <!-- 200 -->
+    <color name="control_activated_red">#ff2d6f</color>    <!-- A700 -->
+    <color name="button_normal_red">#e00032</color> <!-- 400 -->
+
+    <color name="status_pink">#880e4f</color>        <!-- 900 -->
+    <color name="action_pink">#e91e63</color>        <!-- 500 -->
+    <color name="window_bg_pink">#f06292</color>     <!-- 300 -->
+    <color name="navigation_pink">#c2185b</color>    <!-- 700 -->
+    <color name="bg_pink">#ec407a</color>    <!-- 400 -->
+    <color name="fg_pink">#fce4ec</color>    <!-- 50 -->
+    <color name="control_normal_pink">#fce4ec</color>    <!-- 50 -->
+    <color name="control_highlight_pink">#f48fb1</color>    <!-- 200 -->
+    <color name="control_activated_pink">#c51162</color>    <!-- A700 -->
+    <color name="button_normal_pink">#ec407a</color> <!-- 400 -->
+
+    <color name="status_purple">#4a148c</color>        <!-- 900 -->
+    <color name="action_purple">#9c27b0</color>        <!-- 500 -->
+    <color name="window_bg_purple">#ba68c8</color>     <!-- 300 -->
+    <color name="navigation_purple">#7b1fa2</color>    <!-- 700 -->
+    <color name="bg_purple">#ab47bc</color>    <!-- 400 -->
+    <color name="fg_purple">#f3e5f5</color>    <!-- 50 -->
+    <color name="control_normal_purple">#f3e5f5</color>    <!-- 50 -->
+    <color name="control_highlight_purple">#ce93d8</color>    <!-- 200 -->
+    <color name="control_activated_purple">#aa00ff</color>    <!-- A700 -->
+    <color name="button_normal_purple">#ab47bc</color> <!-- 400 -->
+
+    <color name="status_deep_purple">#311b92</color>        <!-- 900 -->
+    <color name="action_deep_purple">#673ab7</color>        <!-- 500 -->
+    <color name="window_bg_deep_purple">#9575cd</color>     <!-- 300 -->
+    <color name="navigation_deep_purple">#512da8</color>    <!-- 700 -->
+    <color name="bg_deep_purple">#7e57c2</color>    <!-- 400 -->
+    <color name="fg_deep_purple">#ede7f6</color>    <!-- 50 -->
+    <color name="control_normal_deep_purple">#ede7f6</color>    <!-- 50 -->
+    <color name="control_highlight_deep_purple">#b39ddb</color>    <!-- 200 -->
+    <color name="control_activated_deep_purple">#6200ea</color>    <!-- A700 -->
+    <color name="button_normal_deep_purple">#7e57c2</color> <!-- 400 -->
+
+    <color name="status_indigo">#1a237e</color>        <!-- 900 -->
+    <color name="action_indigo">#3f51b5</color>        <!-- 500 -->
+    <color name="window_bg_indigo">#7986cb</color>     <!-- 300 -->
+    <color name="navigation_indigo">#303f9f</color>    <!-- 700 -->
+    <color name="bg_indigo">#5c6bc0</color>    <!-- 400 -->
+    <color name="fg_indigo">#e8eaf6</color>    <!-- 50 -->
+    <color name="control_normal_indigo">#e8eaf6</color>    <!-- 50 -->
+    <color name="control_highlight_indigo">#9fa8da</color>    <!-- 200 -->
+    <color name="control_activated_indigo">#304ffe</color>    <!-- A700 -->
+    <color name="button_normal_indigo">#5c6bc0</color> <!-- 400 -->
+
+    <color name="status_blue">#2a36b1</color>        <!-- 900 -->
+    <color name="action_blue">#5677fc</color>        <!-- 500 -->
+    <color name="window_bg_blue">#91a7ff</color>     <!-- 300 -->
+    <color name="navigation_blue">#455ede</color>    <!-- 700 -->
+    <color name="bg_blue">#738ffe</color>    <!-- 400 -->
+    <color name="fg_blue">#e7e9fd</color>    <!-- 50 -->
+    <color name="control_normal_blue">#e7e9fd</color>    <!-- 50 -->
+    <color name="control_highlight_blue">#afbfff</color>    <!-- 200 -->
+    <color name="control_activated_blue">#4d69ff</color>    <!-- A700 -->
+    <color name="button_normal_blue">#738ffe</color> <!-- 400 -->
+
+    <color name="status_light_blue">#01579b</color>        <!-- 900 -->
+    <color name="action_light_blue">#03a9f4</color>        <!-- 500 -->
+    <color name="window_bg_light_blue">#4fc3f7</color>     <!-- 300 -->
+    <color name="navigation_light_blue">#0288d1</color>    <!-- 700 -->
+    <color name="bg_light_blue">#29b6f6</color>    <!-- 400 -->
+    <color name="fg_light_blue">#e1f5fe</color>    <!-- 50 -->
+    <color name="control_normal_light_blue">#e1f5fe</color>    <!-- 50 -->
+    <color name="control_highlight_light_blue">#81d4fa</color>    <!-- 200 -->
+    <color name="control_activated_light_blue">#0091ea</color>    <!-- A700 -->
+    <color name="button_normal_light_blue">#29b6f6</color> <!-- 400 -->
+
+    <color name="status_cyan">#006064</color>        <!-- 900 -->
+    <color name="action_cyan">#00bcd4</color>        <!-- 500 -->
+    <color name="window_bg_cyan">#4dd0e1</color>     <!-- 300 -->
+    <color name="navigation_cyan">#0097a7</color>    <!-- 700 -->
+    <color name="bg_cyan">#26c6da</color>    <!-- 400 -->
+    <color name="fg_cyan">#e0f7fa</color>    <!-- 50 -->
+    <color name="control_normal_cyan">#e0f7fa</color>    <!-- 50 -->
+    <color name="control_highlight_cyan">#80deea</color>    <!-- 200 -->
+    <color name="control_activated_cyan">#00b8d4</color>    <!-- A700 -->
+    <color name="button_normal_cyan">#26c6da</color> <!-- 400 -->
+
+    <color name="status_teal">#004d40</color>        <!-- 900 -->
+    <color name="action_teal">#009688</color>        <!-- 500 -->
+    <color name="window_bg_teal">#4db6ac</color>     <!-- 300 -->
+    <color name="navigation_teal">#00796b</color>    <!-- 700 -->
+    <color name="bg_teal">#26a69a</color>    <!-- 400 -->
+    <color name="fg_teal">#e0f2f1</color>    <!-- 50 -->
+    <color name="control_normal_teal">#e0f2f1</color>    <!-- 50 -->
+    <color name="control_highlight_teal">#80cbc4</color>    <!-- 200 -->
+    <color name="control_activated_teal">#00897b</color>    <!-- 600 -->
+    <color name="button_normal_teal">#26a69a</color> <!-- 400 -->
+
+    <color name="status_green">#0d5302</color>        <!-- 900 -->
+    <color name="action_green">#259b24</color>        <!-- 500 -->
+    <color name="window_bg_green">#42bd41</color>     <!-- 300 -->
+    <color name="navigation_green">#0a7e07</color>    <!-- 700 -->
+    <color name="bg_green">#2baf2b</color>    <!-- 400 -->
+    <color name="fg_green">#d0f8ce</color>    <!-- 50 -->
+    <color name="control_normal_green">#d0f8ce</color>    <!-- 50 -->
+    <color name="control_highlight_green">#72d572</color>    <!-- 200 -->
+    <color name="control_activated_green">#12c700</color>    <!-- A700 -->
+    <color name="button_normal_green">#2baf2b</color> <!-- 400 -->
+
+    <color name="status_light_green">#33691e</color>        <!-- 900 -->
+    <color name="action_light_green">#8bc34a</color>        <!-- 500 -->
+    <color name="window_bg_light_green">#aed581</color>     <!-- 300 -->
+    <color name="navigation_light_green">#689f38</color>    <!-- 700 -->
+    <color name="bg_light_green">#9ccc65</color>    <!-- 400 -->
+    <color name="fg_light_green">#f1f8e9</color>    <!-- 50 -->
+    <color name="control_normal_light_green">#f1f8e9</color>    <!-- 50 -->
+    <color name="control_highlight_light_green">#c5e1a5</color>    <!-- 200 -->
+    <color name="control_activated_light_green">#7cb342</color>    <!-- 600 -->
+    <color name="button_normal_light_green">#9ccc65</color> <!-- 400 -->
+
+    <color name="status_lime">#827717</color>        <!-- 900 -->
+    <color name="action_lime">#cddc39</color>        <!-- 500 -->
+    <color name="window_bg_lime">#d4e157</color>     <!-- 400 -->
+    <color name="navigation_lime">#afb42b</color>    <!-- 700 -->
+    <color name="bg_lime">#d4e157</color>    <!-- 400 -->
+    <color name="fg_lime">#f9fbe7</color>    <!-- 50 -->
+    <color name="control_normal_lime">#f9fbe7</color>    <!-- 50 -->
+    <color name="control_highlight_lime">#e6ee9c</color>    <!-- 200 -->
+    <color name="control_activated_lime">#c0ca33</color>    <!-- 600 -->
+    <color name="button_normal_lime">#cddc39</color> <!-- 500 -->
+
+    <color name="status_yellow">#f9a825</color>        <!-- 800 -->
+    <color name="action_yellow">#fbc02d</color>        <!-- 700 -->
+    <color name="window_bg_yellow">#ffeb3b</color>     <!-- 500 -->
+    <color name="navigation_yellow">#fbc02d</color>    <!-- 700 -->
+    <color name="bg_yellow">#fdd835</color>    <!-- 600 -->
+    <color name="fg_yellow">#fffde7</color>    <!-- 50 -->
+    <color name="control_normal_yellow">#fffde7</color>    <!-- 50 -->
+    <color name="control_highlight_yellow">#fff59d</color>    <!-- 200 -->
+    <color name="control_activated_yellow">#fbc02d</color>    <!-- 700 -->
+    <color name="button_normal_yellow">#fdd835</color> <!-- 600 -->
+
+    <color name="status_amber">#ff6f00</color>        <!-- 900 -->
+    <color name="action_amber">#ffc107</color>        <!-- 500 -->
+    <color name="window_bg_amber">#ffd54f</color>     <!-- 300 -->
+    <color name="navigation_amber">#ffa000</color>    <!-- 700 -->
+    <color name="bg_amber">#ffca28</color>    <!-- 400 -->
+    <color name="fg_amber">#fff8e1</color>    <!-- 50 -->
+    <color name="control_normal_amber">#fff8e1</color>    <!-- 50 -->
+    <color name="control_highlight_amber">#ffe082</color>    <!-- 200 -->
+    <color name="control_activated_amber">#ffab00</color>    <!-- A700 -->
+    <color name="button_normal_amber">#ffca28</color> <!-- 400 -->
+
+    <color name="status_orange">#e65100</color>        <!-- 900 -->
+    <color name="action_orange">#ff9800</color>        <!-- 500 -->
+    <color name="window_bg_orange">#ffb74d</color>     <!-- 300 -->
+    <color name="navigation_orange">#f57c00</color>    <!-- 700 -->
+    <color name="bg_orange">#ff4726</color>    <!-- 400 -->
+    <color name="fg_orange">#fff3e0</color>    <!-- 50 -->
+    <color name="control_normal_orange">#fff3e0</color>    <!-- 50 -->
+    <color name="control_highlight_orange">#ffcc80</color>    <!-- 200 -->
+    <color name="control_activated_orange">#ff6d00</color>    <!-- A700 -->
+    <color name="button_normal_orange">#ff4726</color> <!-- 400 -->
+
+    <color name="status_deep_orange">#bf360c</color>        <!-- 900 -->
+    <color name="action_deep_orange">#f4511e</color>        <!-- 500 -->
+    <color name="window_bg_deep_orange">#ff8a65</color>     <!-- 300 -->
+    <color name="navigation_deep_orange">#e64a19</color>    <!-- 700 -->
+    <color name="bg_deep_orange">#ff7043</color>    <!-- 400 -->
+    <color name="fg_deep_orange">#fbe9e7</color>    <!-- 50 -->
+    <color name="control_normal_deep_orange">#fbe9e7</color>    <!-- 50 -->
+    <color name="control_highlight_deep_orange">#ffab91</color>    <!-- 200 -->
+    <color name="control_activated_deep_orange">#e64a19</color>    <!-- A700 -->
+    <color name="button_normal_deep_orange">#ff7043</color> <!-- 400 -->
+
+    <color name="status_brown">#3e2723</color>        <!-- 900 -->
+    <color name="action_brown">#795548</color>        <!-- 500 -->
+    <color name="window_bg_brown">#a1887f</color>     <!-- 300 -->
+    <color name="navigation_brown">#5d4037</color>    <!-- 700 -->
+    <color name="bg_brown">#8d6e63</color>    <!-- 400 -->
+    <color name="fg_brown">#efebe9</color>    <!-- 50 -->
+    <color name="control_normal_brown">#efebe9</color>    <!-- 50 -->
+    <color name="control_highlight_brown">#bcaaa4</color>    <!-- 200 -->
+    <color name="control_activated_brown">#5d4037</color>    <!-- 700 -->
+    <color name="button_normal_brown">#8d6e63</color> <!-- 400 -->
+
+    <color name="status_grey">#212121</color>        <!-- 900 -->
+    <color name="action_grey">#616161</color>        <!-- 700 -->
+    <color name="window_bg_grey">#9e9e9e</color>     <!-- 500 -->
+    <color name="navigation_grey">#424242</color>    <!-- 800 -->
+    <color name="bg_grey">#757575</color>    <!-- 600 -->
+    <color name="fg_grey">#fafafa</color>    <!-- 50 -->
+    <color name="control_normal_grey">#fafafa</color>    <!-- 50 -->
+    <color name="control_highlight_grey">#f5f5f5</color>    <!-- 100 -->
+    <color name="control_activated_grey">#616161</color>    <!-- 700 -->
+    <color name="button_normal_grey">#757575</color> <!-- 600 -->
+
+    <color name="status_blue_grey">#263238</color>        <!-- 900 -->
+    <color name="action_blue_grey">#455a64</color>        <!-- 700 -->
+    <color name="window_bg_blue_grey">#78909c</color>     <!-- 400 -->
+    <color name="navigation_blue_grey">#37474f</color>    <!-- 800 -->
+    <color name="bg_blue_grey">#607d8b</color>    <!-- 500 -->
+    <color name="fg_blue_grey">#eceff1</color>    <!-- 50 -->
+    <color name="control_normal_blue_grey">#eceff1</color>    <!-- 50 -->
+    <color name="control_highlight_blue_grey">#cfd8dc</color>    <!-- 100 -->
+    <color name="control_activated_blue_grey">#455a64</color>    <!-- 700 -->
+    <color name="button_normal_blue_grey">#607d8b</color> <!-- 500 -->
+
+
+    <color name="refresh_bg">#B3E5FC</color> <!-- 500 -->
+</resources>
