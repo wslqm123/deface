@@ -7,22 +7,22 @@
 
 调用系统相机进行拍照，并对图片进行处理；图片处理采用了调用本地方法类库的方式，类库是由旧版美图秀秀中提取出来的。案例中实现了四种方法的调用，具体调用方式请自己猜。。。
 
-![image](https://github.com/wslqm123/deface/screenshots/Screenshot_2015-08-28-00-43-40.png)
-![image](https://github.com/wslqm123/deface/screenshots/Screenshot_2015-08-28-00-43-59.png)
+![image](https://github.com/wslqm123/deface/blob/master/screenshots/Screenshot_2015-08-28-00-43-40.png)
+![image](https://github.com/wslqm123/deface/blob/master/screenshots/Screenshot_2015-08-28-00-43-59.png)
 
 ### 模块二：
 
 浏览手机中照片，这里提供了有两种方式；1、调用系统自带图片浏览器，2、自己写代码查询手机中的照片；
 案例中采用自己扫描照片的方式，默认选择图片最多的文件夹，使用recyleview对图片进行展示
 
-![image](https://github.com/wslqm123/deface/screenshots/Screenshot_2015-08-28-00-40-46.png)
+![image](https://github.com/wslqm123/deface/blob/master/screenshots/Screenshot_2015-08-28-00-40-46.png)
 
 ### 模块三：
 
 利用矩阵对bitmap进行变换，再与原来的bitmap进行合成，制造出镜像的效果，这里实现了垂直镜像和水平镜像两种效果
 
-![image](https://github.com/wslqm123/deface/screenshots/Screenshot_2015-08-28-00-44-49.png)
-![image](https://github.com/wslqm123/deface/screenshots/Screenshot_2015-08-28-00-45-01.png)
+![image](https://github.com/wslqm123/deface/blob/master/screenshots/Screenshot_2015-08-28-00-44-49.png)
+![image](https://github.com/wslqm123/deface/blob/master/screenshots/Screenshot_2015-08-28-00-45-01.png)
 
 ### 模块四：
 
